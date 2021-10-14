@@ -2,7 +2,7 @@
 
 ## Overview
 
-The PSoC 4000S Prototyping Kit enables you to evaluate and develop with Cypress's fourth-generation, low-power CapSense solution using the PSoC 4000S device.
+The PSoC 4000S Prototyping Kit enables you to evaluate and develop with Cypress's fourth-generation, low-power CAPSENSE solution using the PSoC 4000S device.
 
 ![](docs/html/board.png)
 
@@ -12,7 +12,7 @@ To use code from the BSP, simply include a reference to `cybsp.h`.
 
 ### Kit Features:
 
-* World's Most Reliable, Lowest Power CapSense Solution
+* World's Most Reliable, Lowest Power CAPSENSE Solution
 * On-board Programmer and Debugger
 
 ### Kit Contents:
@@ -59,10 +59,10 @@ See the [BSP API Reference Manual][api] for the complete list of the provided in
 * [CY8CKIT-145-40XX Documentation](https://www.cypress.com/documentation/development-kitsboards/cy8ckit-145-40xx-psoc-4000s-capsense-prototyping-kit)
 * [Cypress Semiconductor, an Infineon Technologies Company](http://www.cypress.com)
 * [Infineon GitHub](https://github.com/infineon)
-* [ModusToolbox](https://www.cypress.com/products/modustoolbox-software-environment)
+* [ModusToolbox™](https://www.cypress.com/products/modustoolbox-software-environment)
 
-[api]: https://cypresssemiconductorco.github.io/TARGET_CY8CKIT-145-40XX/html/modules.html
-[settings]: https://cypresssemiconductorco.github.io/TARGET_CY8CKIT-145-40XX/html/md_bsp_settings.html
+[api]: https://infineon.github.io/TARGET_CY8CKIT-145-40XX/html/modules.html
+[settings]: https://infineon.github.io/TARGET_CY8CKIT-145-40XX/html/md_bsp_settings.html
 
 ---
 © Cypress Semiconductor Corporation (an Infineon company) or an affiliate of Cypress Semiconductor Corporation, 2019-2021.
